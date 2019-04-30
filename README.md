@@ -11,3 +11,6 @@ Wave.py: The wave environment for DDPG.
 # Environment
 For on-policy network, the environment is included in the On_policy.py.         
 For the DDPG implementation, the environment is generated in Wave.py. 
+# Reference
+The DDPG implementation is developed based on the following algorithm.
+https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG
